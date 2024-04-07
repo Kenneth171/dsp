@@ -1,0 +1,1445 @@
+Country,Code,ContinentCode,Year,Happiness Index 0 (unhappy) - 10 (happy)
+Afghanistan,AFG,AS,2013,4.04
+Afghanistan,AFG,AS,2015,3.58
+Afghanistan,AFG,AS,2016,3.36
+Afghanistan,AFG,AS,2017,3.79
+Afghanistan,AFG,AS,2018,3.63
+Afghanistan,AFG,AS,2019,3.2
+Afghanistan,AFG,AS,2020,2.52
+Afghanistan,AFG,AS,2021,2.4
+Afghanistan,AFG,AS,2022,1.86
+Afghanistan,AFG,AS,2023,1.28
+Albania,ALB,EU,2013,5.55
+Albania,ALB,EU,2015,4.96
+Albania,ALB,EU,2016,4.66
+Albania,ALB,EU,2017,4.64
+Albania,ALB,EU,2018,4.59
+Albania,ALB,EU,2019,4.72
+Albania,ALB,EU,2020,5.12
+Albania,ALB,EU,2021,5.2
+Albania,ALB,EU,2022,5.28
+Albania,ALB,EU,2023,5.21
+Algeria,DZA,AF,2013,5.42
+Algeria,DZA,AF,2015,5.61
+Algeria,DZA,AF,2016,6.36
+Algeria,DZA,AF,2017,5.87
+Algeria,DZA,AF,2018,5.3
+Algeria,DZA,AF,2019,5.21
+Algeria,DZA,AF,2020,4.89
+Algeria,DZA,AF,2021,5.12
+Algeria,DZA,AF,2022,5.33
+Angola,AGO,AF,2013,5.59
+Angola,AGO,AF,2015,4.03
+Angola,AGO,AF,2016,3.87
+Angola,AGO,AF,2017,3.8
+Angola,AGO,AF,2018,3.8
+Argentina,ARG,SA,2013,6.56
+Argentina,ARG,SA,2015,6.57
+Argentina,ARG,SA,2016,6.65
+Argentina,ARG,SA,2017,6.6
+Argentina,ARG,SA,2018,6.39
+Argentina,ARG,SA,2019,6.09
+Argentina,ARG,SA,2020,5.93
+Argentina,ARG,SA,2021,5.97
+Argentina,ARG,SA,2022,6.02
+Argentina,ARG,SA,2023,6.26
+Armenia,ARM,AS,2013,4.32
+Armenia,ARM,AS,2015,4.35
+Armenia,ARM,AS,2016,4.36
+Armenia,ARM,AS,2017,4.38
+Armenia,ARM,AS,2018,4.32
+Armenia,ARM,AS,2019,4.56
+Armenia,ARM,AS,2020,5.28
+Armenia,ARM,AS,2021,5.4
+Armenia,ARM,AS,2022,5.34
+Armenia,ARM,AS,2023,5.38
+Australia,AUS,OC,2013,7.35
+Australia,AUS,OC,2015,7.28
+Australia,AUS,OC,2016,7.31
+Australia,AUS,OC,2017,7.28
+Australia,AUS,OC,2018,7.27
+Australia,AUS,OC,2019,7.23
+Australia,AUS,OC,2020,7.18
+Australia,AUS,OC,2021,7.16
+Australia,AUS,OC,2022,7.09
+Australia,AUS,OC,2023,7.04
+Austria,AUT,EU,2013,7.37
+Austria,AUT,EU,2015,7.2
+Austria,AUT,EU,2016,7.12
+Austria,AUT,EU,2017,7.01
+Austria,AUT,EU,2018,7.14
+Austria,AUT,EU,2019,7.25
+Austria,AUT,EU,2020,7.27
+Austria,AUT,EU,2021,7.16
+Austria,AUT,EU,2022,7.1
+Austria,AUT,EU,2023,7
+Azerbaijan,AZE,AS,2013,4.6
+Azerbaijan,AZE,AS,2015,5.21
+Azerbaijan,AZE,AS,2016,5.29
+Azerbaijan,AZE,AS,2017,5.23
+Azerbaijan,AZE,AS,2018,5.2
+Azerbaijan,AZE,AS,2019,5.21
+Azerbaijan,AZE,AS,2020,5.17
+Azerbaijan,AZE,AS,2021,5.17
+Bahrain,BHR,AS,2013,5.31
+Bahrain,BHR,AS,2015,5.96
+Bahrain,BHR,AS,2016,6.22
+Bahrain,BHR,AS,2017,6.09
+Bahrain,BHR,AS,2018,6.11
+Bahrain,BHR,AS,2019,6.2
+Bahrain,BHR,AS,2020,6.65
+Bahrain,BHR,AS,2021,6.65
+Bahrain,BHR,AS,2022,6.17
+Bangladesh,BGD,AS,2013,4.8
+Bangladesh,BGD,AS,2015,4.69
+Bangladesh,BGD,AS,2016,4.64
+Bangladesh,BGD,AS,2017,4.61
+Bangladesh,BGD,AS,2018,4.5
+Bangladesh,BGD,AS,2019,4.46
+Bangladesh,BGD,AS,2020,5.03
+Bangladesh,BGD,AS,2021,5.16
+Bangladesh,BGD,AS,2022,4.28
+Bangladesh,BGD,AS,2023,3.41
+Belarus,BLR,EU,2013,5.5
+Belarus,BLR,EU,2015,5.81
+Belarus,BLR,EU,2016,5.8
+Belarus,BLR,EU,2017,5.57
+Belarus,BLR,EU,2018,5.48
+Belarus,BLR,EU,2019,5.32
+Belarus,BLR,EU,2020,5.53
+Belarus,BLR,EU,2021,5.82
+Belgium,BEL,EU,2013,6.97
+Belgium,BEL,EU,2015,6.94
+Belgium,BEL,EU,2016,6.93
+Belgium,BEL,EU,2017,6.89
+Belgium,BEL,EU,2018,6.93
+Belgium,BEL,EU,2019,6.92
+Belgium,BEL,EU,2020,6.83
+Belgium,BEL,EU,2021,6.8
+Belgium,BEL,EU,2022,6.86
+Belgium,BEL,EU,2023,6.86
+Belize,BLZ,NA,2016,5.96
+Belize,BLZ,NA,2017,5.96
+Belize,BLZ,NA,2018,5.96
+Benin,BEN,AF,2013,3.53
+Benin,BEN,AF,2015,3.34
+Benin,BEN,AF,2016,3.48
+Benin,BEN,AF,2017,3.66
+Benin,BEN,AF,2018,4.14
+Benin,BEN,AF,2019,4.88
+Benin,BEN,AF,2020,5.05
+Benin,BEN,AF,2021,4.62
+Benin,BEN,AF,2022,4.37
+Benin,BEN,AF,2023,4.22
+Bhutan,BTN,AS,2015,5.25
+Bhutan,BTN,AS,2016,5.2
+Bhutan,BTN,AS,2017,5.01
+Bhutan,BTN,AS,2018,5.08
+Bhutan,BTN,AS,2019,5.08
+Bolivia,BOL,SA,2013,5.86
+Bolivia,BOL,SA,2015,5.89
+Bolivia,BOL,SA,2016,5.82
+Bolivia,BOL,SA,2017,5.82
+Bolivia,BOL,SA,2018,5.75
+Bolivia,BOL,SA,2019,5.78
+Bolivia,BOL,SA,2020,5.72
+Bolivia,BOL,SA,2021,5.6
+Bolivia,BOL,SA,2022,5.68
+Bolivia,BOL,SA,2023,5.93
+Bosnia and Herzegovina,BIH,EU,2013,4.81
+Bosnia and Herzegovina,BIH,EU,2015,4.95
+Bosnia and Herzegovina,BIH,EU,2016,5.16
+Bosnia and Herzegovina,BIH,EU,2017,5.18
+Bosnia and Herzegovina,BIH,EU,2018,5.13
+Bosnia and Herzegovina,BIH,EU,2019,5.39
+Bosnia and Herzegovina,BIH,EU,2020,5.81
+Bosnia and Herzegovina,BIH,EU,2021,5.77
+Bosnia and Herzegovina,BIH,EU,2022,5.63
+Botswana,BWA,AF,2013,3.97
+Botswana,BWA,AF,2015,4.33
+Botswana,BWA,AF,2016,3.97
+Botswana,BWA,AF,2017,3.77
+Botswana,BWA,AF,2018,3.59
+Botswana,BWA,AF,2019,3.49
+Botswana,BWA,AF,2020,3.47
+Botswana,BWA,AF,2021,3.47
+Botswana,BWA,AF,2022,3.44
+Botswana,BWA,AF,2023,3.44
+Brazil,BRA,SA,2013,6.85
+Brazil,BRA,SA,2015,6.98
+Brazil,BRA,SA,2016,6.95
+Brazil,BRA,SA,2017,6.64
+Brazil,BRA,SA,2018,6.42
+Brazil,BRA,SA,2019,6.3
+Brazil,BRA,SA,2020,6.33
+Brazil,BRA,SA,2021,6.29
+Brazil,BRA,SA,2022,6.12
+Brazil,BRA,SA,2023,6.26
+Bulgaria,BGR,EU,2013,3.98
+Bulgaria,BGR,EU,2015,4.22
+Bulgaria,BGR,EU,2016,4.22
+Bulgaria,BGR,EU,2017,4.71
+Bulgaria,BGR,EU,2018,4.93
+Bulgaria,BGR,EU,2019,5.01
+Bulgaria,BGR,EU,2020,5.27
+Bulgaria,BGR,EU,2021,5.37
+Bulgaria,BGR,EU,2022,5.47
+Bulgaria,BGR,EU,2023,5.38
+Burkina Faso,BFA,AF,2013,4.26
+Burkina Faso,BFA,AF,2015,3.59
+Burkina Faso,BFA,AF,2016,3.74
+Burkina Faso,BFA,AF,2017,4.03
+Burkina Faso,BFA,AF,2018,4.42
+Burkina Faso,BFA,AF,2019,4.59
+Burkina Faso,BFA,AF,2020,4.83
+Burkina Faso,BFA,AF,2021,4.67
+Burkina Faso,BFA,AF,2022,4.64
+Burma (Myanmar),MMR,AS,2013,4.44
+Burma (Myanmar),MMR,AS,2015,4.31
+Burma (Myanmar),MMR,AS,2016,4.4
+Burma (Myanmar),MMR,AS,2017,4.55
+Burma (Myanmar),MMR,AS,2018,4.31
+Burma (Myanmar),MMR,AS,2019,4.36
+Burma (Myanmar),MMR,AS,2020,4.43
+Burma (Myanmar),MMR,AS,2021,4.39
+Burma (Myanmar),MMR,AS,2022,4.37
+Burundi,BDI,AF,2013,3.71
+Burundi,BDI,AF,2015,2.91
+Burundi,BDI,AF,2016,2.91
+Burundi,BDI,AF,2017,2.9
+Burundi,BDI,AF,2018,2.91
+Burundi,BDI,AF,2019,3.78
+Burundi,BDI,AF,2020,3.78
+Cambodia,KHM,AS,2013,4.07
+Cambodia,KHM,AS,2015,3.82
+Cambodia,KHM,AS,2016,3.91
+Cambodia,KHM,AS,2017,4.17
+Cambodia,KHM,AS,2018,4.43
+Cambodia,KHM,AS,2019,4.7
+Cambodia,KHM,AS,2020,4.83
+Cambodia,KHM,AS,2021,4.64
+Cambodia,KHM,AS,2022,4.39
+Cambodia,KHM,AS,2023,4.25
+Cameroon,CMR,AF,2013,4.42
+Cameroon,CMR,AF,2015,4.25
+Cameroon,CMR,AF,2016,4.51
+Cameroon,CMR,AF,2017,4.7
+Cameroon,CMR,AF,2018,4.98
+Cameroon,CMR,AF,2019,5.04
+Cameroon,CMR,AF,2020,5.14
+Cameroon,CMR,AF,2021,5.05
+Cameroon,CMR,AF,2022,4.97
+Cameroon,CMR,AF,2023,4.71
+Canada,CAN,NA,2013,7.48
+Canada,CAN,NA,2015,7.43
+Canada,CAN,NA,2016,7.4
+Canada,CAN,NA,2017,7.32
+Canada,CAN,NA,2018,7.33
+Canada,CAN,NA,2019,7.28
+Canada,CAN,NA,2020,7.1
+Canada,CAN,NA,2021,7.03
+Canada,CAN,NA,2022,6.96
+Canada,CAN,NA,2023,6.92
+Central African Republic,CAF,AF,2013,3.62
+Central African Republic,CAF,AF,2015,3.68
+Central African Republic,CAF,AF,2017,2.69
+Central African Republic,CAF,AF,2018,3.08
+Central African Republic,CAF,AF,2019,3.08
+Central African Republic,CAF,AF,2020,3.48
+Chad,TCD,AF,2013,4.06
+Chad,TCD,AF,2015,3.67
+Chad,TCD,AF,2016,3.76
+Chad,TCD,AF,2017,3.94
+Chad,TCD,AF,2018,4.3
+Chad,TCD,AF,2019,4.35
+Chad,TCD,AF,2020,4.36
+Chad,TCD,AF,2021,4.25
+Chad,TCD,AF,2022,4.4
+Chad,TCD,AF,2023,4.4
+Chile,CHL,SA,2013,6.59
+Chile,CHL,SA,2015,6.67
+Chile,CHL,SA,2016,6.71
+Chile,CHL,SA,2017,6.65
+Chile,CHL,SA,2018,6.48
+Chile,CHL,SA,2019,6.44
+Chile,CHL,SA,2020,6.17
+Chile,CHL,SA,2021,6.17
+Chile,CHL,SA,2022,6.33
+Chile,CHL,SA,2023,6.42
+China,CHN,AS,2013,4.98
+China,CHN,AS,2015,5.14
+China,CHN,AS,2016,5.25
+China,CHN,AS,2017,5.27
+China,CHN,AS,2018,5.25
+China,CHN,AS,2019,5.19
+China,CHN,AS,2020,5.34
+China,CHN,AS,2021,5.59
+China,CHN,AS,2022,5.82
+Colombia,COL,SA,2013,6.42
+Colombia,COL,SA,2015,6.48
+Colombia,COL,SA,2016,6.48
+Colombia,COL,SA,2017,6.36
+Colombia,COL,SA,2018,6.26
+Colombia,COL,SA,2019,6.12
+Colombia,COL,SA,2020,6.01
+Colombia,COL,SA,2021,5.78
+Colombia,COL,SA,2022,5.63
+Colombia,COL,SA,2023,5.89
+Comoros,COM,AF,2013,3.85
+Comoros,COM,AF,2015,3.96
+Comoros,COM,AF,2016,3.96
+Comoros,COM,AF,2019,3.97
+Comoros,COM,AF,2020,4.29
+Comoros,COM,AF,2022,3.55
+Comoros,COM,AF,2023,3.55
+Costa Rica,CRC,NA,2013,7.26
+Costa Rica,CRC,NA,2015,7.23
+Costa Rica,CRC,NA,2016,7.09
+Costa Rica,CRC,NA,2017,7.08
+Costa Rica,CRC,NA,2018,7.07
+Costa Rica,CRC,NA,2019,7.17
+Costa Rica,CRC,NA,2020,7.07
+Costa Rica,CRC,NA,2021,6.58
+Costa Rica,CRC,NA,2022,6.61
+Costa Rica,CRC,NA,2023,7.08
+Croatia,HRV,EU,2013,5.66
+Croatia,HRV,EU,2015,5.76
+Croatia,HRV,EU,2016,5.49
+Croatia,HRV,EU,2017,5.29
+Croatia,HRV,EU,2018,5.32
+Croatia,HRV,EU,2019,5.43
+Croatia,HRV,EU,2020,5.88
+Croatia,HRV,EU,2021,6.13
+Croatia,HRV,EU,2022,6.13
+Croatia,HRV,EU,2023,5.58
+Cyprus,CYP,EU,2013,6.47
+Cyprus,CYP,EU,2015,5.69
+Cyprus,CYP,EU,2016,5.55
+Cyprus,CYP,EU,2017,5.62
+Cyprus,CYP,EU,2018,5.76
+Cyprus,CYP,EU,2019,6.05
+Cyprus,CYP,EU,2020,5.88
+Cyprus,CYP,EU,2021,6.22
+Cyprus,CYP,EU,2022,6.13
+Cyprus,CYP,EU,2023,5.87
+Czechia,CZE,EU,2013,6.29
+Czechia,CZE,EU,2015,6.51
+Czechia,CZE,EU,2016,6.6
+Czechia,CZE,EU,2017,6.61
+Czechia,CZE,EU,2018,6.71
+Czechia,CZE,EU,2019,6.85
+Czechia,CZE,EU,2020,6.97
+Czechia,CZE,EU,2021,6.92
+Czechia,CZE,EU,2022,6.85
+Czechia,CZE,EU,2023,6.7
+Democratic Republic of the Congo,COD,AF,2017,4.28
+Democratic Republic of the Congo,COD,AF,2018,4.25
+Democratic Republic of the Congo,COD,AF,2019,4.42
+Democratic Republic of the Congo,COD,AF,2020,5.34
+Democratic Republic of the Congo,COD,AF,2022,3.21
+Democratic Republic of the Congo,COD,AF,2023,3.21
+Denmark,DNK,EU,2013,7.69
+Denmark,DNK,EU,2015,7.53
+Denmark,DNK,EU,2016,7.53
+Denmark,DNK,EU,2017,7.52
+Denmark,DNK,EU,2018,7.56
+Denmark,DNK,EU,2019,7.6
+Denmark,DNK,EU,2020,7.62
+Denmark,DNK,EU,2021,7.64
+Denmark,DNK,EU,2022,7.59
+Denmark,DNK,EU,2023,7.55
+Djibouti,DJI,AF,2013,4.69
+Djibouti,DJI,AF,2015,4.37
+Dominican Republic,DOM,NA,2013,4.96
+Dominican Republic,DOM,NA,2015,4.89
+Dominican Republic,DOM,NA,2016,5.16
+Dominican Republic,DOM,NA,2017,5.23
+Dominican Republic,DOM,NA,2018,5.3
+Dominican Republic,DOM,NA,2019,5.43
+Dominican Republic,DOM,NA,2020,5.55
+Dominican Republic,DOM,NA,2021,5.74
+Dominican Republic,DOM,NA,2022,5.57
+Dominican Republic,DOM,NA,2023,5.52
+Ecuador,ECU,SA,2013,5.87
+Ecuador,ECU,SA,2015,5.98
+Ecuador,ECU,SA,2016,5.98
+Ecuador,ECU,SA,2017,6.01
+Ecuador,ECU,SA,2018,5.97
+Ecuador,ECU,SA,2019,6.03
+Ecuador,ECU,SA,2020,5.76
+Ecuador,ECU,SA,2021,5.53
+Ecuador,ECU,SA,2022,5.56
+Ecuador,ECU,SA,2023,5.89
+Egypt,EGY,AF,2013,4.27
+Egypt,EGY,AF,2015,4.19
+Egypt,EGY,AF,2016,4.36
+Egypt,EGY,AF,2017,4.74
+Egypt,EGY,AF,2018,4.42
+Egypt,EGY,AF,2019,4.17
+Egypt,EGY,AF,2020,4.28
+Egypt,EGY,AF,2021,4.29
+Egypt,EGY,AF,2022,4.17
+Egypt,EGY,AF,2023,4.02
+El Salvador,SLV,NA,2013,5.81
+El Salvador,SLV,NA,2015,6.13
+El Salvador,SLV,NA,2016,6.07
+El Salvador,SLV,NA,2017,6
+El Salvador,SLV,NA,2018,6.17
+El Salvador,SLV,NA,2019,6.25
+El Salvador,SLV,NA,2020,6.06
+El Salvador,SLV,NA,2021,6.12
+El Salvador,SLV,NA,2022,6.12
+El Salvador,SLV,NA,2023,6.49
+Estonia,EST,EU,2013,5.43
+Estonia,EST,EU,2015,5.43
+Estonia,EST,EU,2016,5.52
+Estonia,EST,EU,2017,5.61
+Estonia,EST,EU,2018,5.74
+Estonia,EST,EU,2019,5.89
+Estonia,EST,EU,2020,6.19
+Estonia,EST,EU,2021,6.34
+Estonia,EST,EU,2022,6.46
+Estonia,EST,EU,2023,6.36
+Ethiopia,ETH,AF,2013,4.56
+Ethiopia,ETH,AF,2015,4.51
+Ethiopia,ETH,AF,2016,4.51
+Ethiopia,ETH,AF,2017,4.46
+Ethiopia,ETH,AF,2018,4.35
+Ethiopia,ETH,AF,2019,4.29
+Ethiopia,ETH,AF,2020,4.28
+Ethiopia,ETH,AF,2021,4.24
+Ethiopia,ETH,AF,2023,3.63
+Finland,FIN,EU,2013,7.39
+Finland,FIN,EU,2015,7.41
+Finland,FIN,EU,2016,7.41
+Finland,FIN,EU,2017,7.47
+Finland,FIN,EU,2018,7.63
+Finland,FIN,EU,2019,7.77
+Finland,FIN,EU,2020,7.84
+Finland,FIN,EU,2021,7.82
+Finland,FIN,EU,2022,7.8
+Finland,FIN,EU,2023,7.73
+France,FRA,EU,2013,6.76
+France,FRA,EU,2015,6.58
+France,FRA,EU,2016,6.48
+France,FRA,EU,2017,6.44
+France,FRA,EU,2018,6.49
+France,FRA,EU,2019,6.59
+France,FRA,EU,2020,6.69
+France,FRA,EU,2021,6.69
+France,FRA,EU,2022,6.66
+France,FRA,EU,2023,6.61
+Gabon,GAB,AF,2013,4.11
+Gabon,GAB,AF,2015,3.9
+Gabon,GAB,AF,2016,4.12
+Gabon,GAB,AF,2017,4.47
+Gabon,GAB,AF,2018,4.76
+Gabon,GAB,AF,2019,4.8
+Gabon,GAB,AF,2020,4.85
+Gabon,GAB,AF,2021,4.96
+Gabon,GAB,AF,2022,5.03
+Gabon,GAB,AF,2023,5.14
+Gambia,GMB,AF,2019,4.52
+Gambia,GMB,AF,2020,5.05
+Gambia,GMB,AF,2021,5.16
+Gambia,GMB,AF,2022,4.28
+Gambia,GMB,AF,2023,4.28
+Georgia,GEO,AS,2013,4.19
+Georgia,GEO,AS,2015,4.3
+Georgia,GEO,AS,2016,4.25
+Georgia,GEO,AS,2017,4.29
+Georgia,GEO,AS,2018,4.34
+Georgia,GEO,AS,2019,4.52
+Georgia,GEO,AS,2020,4.89
+Georgia,GEO,AS,2021,4.97
+Georgia,GEO,AS,2022,5.11
+Georgia,GEO,AS,2023,5.29
+Germany,DEU,EU,2013,6.51
+Germany,DEU,EU,2015,6.75
+Germany,DEU,EU,2016,6.99
+Germany,DEU,EU,2017,6.95
+Germany,DEU,EU,2018,6.97
+Germany,DEU,EU,2019,6.99
+Germany,DEU,EU,2020,7.16
+Germany,DEU,EU,2021,7.03
+Germany,DEU,EU,2022,6.89
+Germany,DEU,EU,2023,6.61
+Ghana,GHA,AF,2013,5.09
+Ghana,GHA,AF,2015,4.63
+Ghana,GHA,AF,2016,4.28
+Ghana,GHA,AF,2017,4.12
+Ghana,GHA,AF,2018,4.66
+Ghana,GHA,AF,2019,5
+Ghana,GHA,AF,2020,5.09
+Ghana,GHA,AF,2021,4.87
+Ghana,GHA,AF,2022,4.61
+Ghana,GHA,AF,2023,4.19
+Greece,GRC,EU,2013,5.44
+Greece,GRC,EU,2015,4.86
+Greece,GRC,EU,2016,5.03
+Greece,GRC,EU,2017,5.23
+Greece,GRC,EU,2018,5.36
+Greece,GRC,EU,2019,5.29
+Greece,GRC,EU,2020,5.72
+Greece,GRC,EU,2021,5.95
+Greece,GRC,EU,2022,5.93
+Greece,GRC,EU,2023,5.9
+Guatemala,GTM,NA,2013,5.97
+Guatemala,GTM,NA,2015,6.12
+Guatemala,GTM,NA,2016,6.32
+Guatemala,GTM,NA,2017,6.45
+Guatemala,GTM,NA,2018,6.38
+Guatemala,GTM,NA,2019,6.44
+Guatemala,GTM,NA,2020,6.44
+Guatemala,GTM,NA,2021,6.26
+Guatemala,GTM,NA,2022,6.15
+Guatemala,GTM,NA,2023,6.15
+Guinea,GIN,AF,2013,3.85
+Guinea,GIN,AF,2015,3.66
+Guinea,GIN,AF,2016,3.61
+Guinea,GIN,AF,2017,3.51
+Guinea,GIN,AF,2018,3.96
+Guinea,GIN,AF,2019,4.53
+Guinea,GIN,AF,2020,4.98
+Guinea,GIN,AF,2021,4.89
+Guinea,GIN,AF,2022,5.07
+Guinea,GIN,AF,2023,5.32
+Haiti,HTI,NA,2013,4.34
+Haiti,HTI,NA,2015,4.52
+Haiti,HTI,NA,2016,4.03
+Haiti,HTI,NA,2017,3.6
+Haiti,HTI,NA,2018,3.58
+Haiti,HTI,NA,2019,3.6
+Haiti,HTI,NA,2020,3.62
+Honduras,HND,NA,2013,5.14
+Honduras,HND,NA,2015,4.79
+Honduras,HND,NA,2016,4.87
+Honduras,HND,NA,2017,5.18
+Honduras,HND,NA,2018,5.5
+Honduras,HND,NA,2019,5.86
+Honduras,HND,NA,2020,5.92
+Honduras,HND,NA,2021,6.02
+Honduras,HND,NA,2022,6.02
+Honduras,HND,NA,2023,5.93
+Hong Kong,HKG,AS,2013,5.52
+Hong Kong,HKG,AS,2015,5.47
+Hong Kong,HKG,AS,2016,5.46
+Hong Kong,HKG,AS,2017,5.47
+Hong Kong,HKG,AS,2018,5.43
+Hong Kong,HKG,AS,2019,5.43
+Hong Kong,HKG,AS,2020,5.48
+Hong Kong,HKG,AS,2021,5.42
+Hong Kong,HKG,AS,2022,5.31
+Hungary,HUN,EU,2013,4.78
+Hungary,HUN,EU,2015,4.8
+Hungary,HUN,EU,2016,5.15
+Hungary,HUN,EU,2017,5.32
+Hungary,HUN,EU,2018,5.62
+Hungary,HUN,EU,2019,5.76
+Hungary,HUN,EU,2020,5.99
+Hungary,HUN,EU,2021,6.09
+Hungary,HUN,EU,2022,6.04
+Hungary,HUN,EU,2023,5.86
+Iceland,ISL,EU,2013,7.36
+Iceland,ISL,EU,2015,7.56
+Iceland,ISL,EU,2016,7.5
+Iceland,ISL,EU,2017,7.5
+Iceland,ISL,EU,2018,7.5
+Iceland,ISL,EU,2019,7.49
+Iceland,ISL,EU,2020,7.55
+Iceland,ISL,EU,2021,7.56
+Iceland,ISL,EU,2022,7.53
+Iceland,ISL,EU,2023,7.45
+India,IND,AS,2013,4.77
+India,IND,AS,2015,4.57
+India,IND,AS,2016,4.4
+India,IND,AS,2017,4.32
+India,IND,AS,2018,4.19
+India,IND,AS,2019,4.02
+India,IND,AS,2020,3.82
+India,IND,AS,2021,3.78
+India,IND,AS,2022,4.04
+India,IND,AS,2023,3.93
+Indonesia,IDN,AS,2013,5.35
+Indonesia,IDN,AS,2015,5.4
+Indonesia,IDN,AS,2016,5.31
+Indonesia,IDN,AS,2017,5.26
+Indonesia,IDN,AS,2018,5.09
+Indonesia,IDN,AS,2019,5.19
+Indonesia,IDN,AS,2020,5.35
+Indonesia,IDN,AS,2021,5.24
+Indonesia,IDN,AS,2022,5.28
+Indonesia,IDN,AS,2023,5.59
+Iran,IRN,AS,2013,4.64
+Iran,IRN,AS,2015,4.69
+Iran,IRN,AS,2016,4.81
+Iran,IRN,AS,2017,4.69
+Iran,IRN,AS,2018,4.71
+Iran,IRN,AS,2019,4.55
+Iran,IRN,AS,2020,4.72
+Iran,IRN,AS,2021,4.89
+Iran,IRN,AS,2022,4.88
+Iran,IRN,AS,2023,4.98
+Iraq,IRQ,AS,2013,4.82
+Iraq,IRQ,AS,2015,4.68
+Iraq,IRQ,AS,2016,4.58
+Iraq,IRQ,AS,2017,4.5
+Iraq,IRQ,AS,2018,4.46
+Iraq,IRQ,AS,2019,4.44
+Iraq,IRQ,AS,2020,4.85
+Iraq,IRQ,AS,2021,4.94
+Iraq,IRQ,AS,2022,4.94
+Ireland,IRL,EU,2013,7.08
+Ireland,IRL,EU,2015,6.94
+Ireland,IRL,EU,2016,6.91
+Ireland,IRL,EU,2017,6.98
+Ireland,IRL,EU,2018,6.98
+Ireland,IRL,EU,2019,7.02
+Ireland,IRL,EU,2020,7.09
+Ireland,IRL,EU,2021,7.04
+Ireland,IRL,EU,2022,6.91
+Ireland,IRL,EU,2023,6.87
+Israel,ISR,AS,2013,7.3
+Israel,ISR,AS,2015,7.28
+Israel,ISR,AS,2016,7.27
+Israel,ISR,AS,2017,7.21
+Israel,ISR,AS,2018,7.19
+Israel,ISR,AS,2019,7.14
+Israel,ISR,AS,2020,7.16
+Israel,ISR,AS,2021,7.36
+Israel,ISR,AS,2022,7.47
+Israel,ISR,AS,2023,7.66
+Italy,ITA,EU,2013,6.02
+Italy,ITA,EU,2015,5.95
+Italy,ITA,EU,2016,5.98
+Italy,ITA,EU,2017,5.96
+Italy,ITA,EU,2018,6
+Italy,ITA,EU,2019,6.22
+Italy,ITA,EU,2020,6.48
+Italy,ITA,EU,2021,6.47
+Italy,ITA,EU,2022,6.4
+Italy,ITA,EU,2023,6.26
+Ivory Coast,CIV,AF,2015,3.66
+Ivory Coast,CIV,AF,2016,3.92
+Ivory Coast,CIV,AF,2017,4.18
+Ivory Coast,CIV,AF,2018,4.67
+Ivory Coast,CIV,AF,2019,4.94
+Ivory Coast,CIV,AF,2020,5.31
+Ivory Coast,CIV,AF,2021,5.23
+Ivory Coast,CIV,AF,2022,5.05
+Ivory Coast,CIV,AF,2023,4.85
+Jamaica,JAM,NA,2013,5.37
+Jamaica,JAM,NA,2015,5.71
+Jamaica,JAM,NA,2016,5.51
+Jamaica,JAM,NA,2017,5.31
+Jamaica,JAM,NA,2018,5.89
+Jamaica,JAM,NA,2019,5.89
+Jamaica,JAM,NA,2020,6.31
+Jamaica,JAM,NA,2021,5.85
+Jamaica,JAM,NA,2022,5.7
+Jamaica,JAM,NA,2023,5.87
+Japan,JPN,AS,2013,6.06
+Japan,JPN,AS,2015,5.99
+Japan,JPN,AS,2016,5.92
+Japan,JPN,AS,2017,5.92
+Japan,JPN,AS,2018,5.92
+Japan,JPN,AS,2019,5.89
+Japan,JPN,AS,2020,5.94
+Japan,JPN,AS,2021,6.04
+Japan,JPN,AS,2022,6.13
+Japan,JPN,AS,2023,6.18
+Jordan,JOR,AS,2013,5.41
+Jordan,JOR,AS,2015,5.19
+Jordan,JOR,AS,2016,5.3
+Jordan,JOR,AS,2017,5.34
+Jordan,JOR,AS,2018,5.16
+Jordan,JOR,AS,2019,4.91
+Jordan,JOR,AS,2020,4.4
+Jordan,JOR,AS,2021,4.15
+Jordan,JOR,AS,2022,4.12
+Jordan,JOR,AS,2023,4.36
+Kazakhstan,KAZ,AS,2013,5.67
+Kazakhstan,KAZ,AS,2015,5.86
+Kazakhstan,KAZ,AS,2016,5.92
+Kazakhstan,KAZ,AS,2017,5.82
+Kazakhstan,KAZ,AS,2018,5.79
+Kazakhstan,KAZ,AS,2019,5.81
+Kazakhstan,KAZ,AS,2020,6.15
+Kazakhstan,KAZ,AS,2021,6.23
+Kazakhstan,KAZ,AS,2022,6.14
+Kazakhstan,KAZ,AS,2023,6.01
+Kenya,KEN,AF,2013,4.4
+Kenya,KEN,AF,2015,4.42
+Kenya,KEN,AF,2016,4.36
+Kenya,KEN,AF,2017,4.55
+Kenya,KEN,AF,2018,4.41
+Kenya,KEN,AF,2019,4.51
+Kenya,KEN,AF,2020,4.61
+Kenya,KEN,AF,2021,4.54
+Kenya,KEN,AF,2022,4.49
+Kenya,KEN,AF,2023,4.45
+Kuwait,KWT,AS,2013,6.52
+Kuwait,KWT,AS,2015,6.3
+Kuwait,KWT,AS,2016,6.24
+Kuwait,KWT,AS,2017,6.11
+Kuwait,KWT,AS,2018,6.08
+Kuwait,KWT,AS,2019,6.02
+Kuwait,KWT,AS,2020,6.11
+Kuwait,KWT,AS,2021,6.11
+Kyrgyzstan,KGZ,AS,2013,5.04
+Kyrgyzstan,KGZ,AS,2015,5.29
+Kyrgyzstan,KGZ,AS,2016,5.19
+Kyrgyzstan,KGZ,AS,2017,5
+Kyrgyzstan,KGZ,AS,2018,5.13
+Kyrgyzstan,KGZ,AS,2019,5.26
+Kyrgyzstan,KGZ,AS,2020,5.74
+Kyrgyzstan,KGZ,AS,2021,5.83
+Kyrgyzstan,KGZ,AS,2022,5.83
+Kyrgyzstan,KGZ,AS,2023,5.67
+Laos,LAO,AS,2013,4.79
+Laos,LAO,AS,2015,4.88
+Laos,LAO,AS,2016,4.88
+Laos,LAO,AS,2018,4.62
+Laos,LAO,AS,2019,4.8
+Laos,LAO,AS,2020,5.03
+Laos,LAO,AS,2021,5.14
+Laos,LAO,AS,2022,5.11
+Latvia,LVA,EU,2013,5.05
+Latvia,LVA,EU,2015,5.1
+Latvia,LVA,EU,2016,5.56
+Latvia,LVA,EU,2017,5.85
+Latvia,LVA,EU,2018,5.93
+Latvia,LVA,EU,2019,5.94
+Latvia,LVA,EU,2020,6.03
+Latvia,LVA,EU,2021,6.18
+Latvia,LVA,EU,2022,6.21
+Latvia,LVA,EU,2023,6.06
+Lebanon,LBN,AS,2013,4.93
+Lebanon,LBN,AS,2015,4.84
+Lebanon,LBN,AS,2016,5.13
+Lebanon,LBN,AS,2017,5.22
+Lebanon,LBN,AS,2018,5.2
+Lebanon,LBN,AS,2019,5.2
+Lebanon,LBN,AS,2020,4.58
+Lebanon,LBN,AS,2021,2.96
+Lebanon,LBN,AS,2022,2.39
+Lebanon,LBN,AS,2023,2.35
+Lesotho,LSO,AF,2013,4.9
+Lesotho,LSO,AF,2015,4.9
+Lesotho,LSO,AF,2017,3.81
+Lesotho,LSO,AF,2018,3.81
+Lesotho,LSO,AF,2019,3.8
+Lesotho,LSO,AF,2020,3.51
+Lesotho,LSO,AF,2021,3.51
+Liberia,LBR,AF,2013,4.2
+Liberia,LBR,AF,2015,4.57
+Liberia,LBR,AF,2016,3.62
+Liberia,LBR,AF,2017,3.53
+Liberia,LBR,AF,2018,3.5
+Liberia,LBR,AF,2019,3.98
+Liberia,LBR,AF,2020,4.63
+Liberia,LBR,AF,2021,5.12
+Liberia,LBR,AF,2022,4.04
+Liberia,LBR,AF,2023,4.04
+Libya,LBY,AF,2013,5.34
+Libya,LBY,AF,2015,5.75
+Libya,LBY,AF,2016,5.62
+Libya,LBY,AF,2017,5.53
+Libya,LBY,AF,2018,5.57
+Libya,LBY,AF,2019,5.53
+Libya,LBY,AF,2020,5.41
+Libya,LBY,AF,2021,5.33
+Lithuania,LTU,EU,2013,5.43
+Lithuania,LTU,EU,2015,5.83
+Lithuania,LTU,EU,2016,5.81
+Lithuania,LTU,EU,2017,5.9
+Lithuania,LTU,EU,2018,5.95
+Lithuania,LTU,EU,2019,6.15
+Lithuania,LTU,EU,2020,6.26
+Lithuania,LTU,EU,2021,6.45
+Lithuania,LTU,EU,2022,6.76
+Lithuania,LTU,EU,2023,7.04
+Luxembourg,LUX,EU,2013,7.05
+Luxembourg,LUX,EU,2015,6.95
+Luxembourg,LUX,EU,2016,6.87
+Luxembourg,LUX,EU,2017,6.86
+Luxembourg,LUX,EU,2018,6.91
+Luxembourg,LUX,EU,2019,7.09
+Luxembourg,LUX,EU,2020,7.32
+Luxembourg,LUX,EU,2021,7.4
+Luxembourg,LUX,EU,2022,7.23
+Luxembourg,LUX,EU,2023,7.23
+Madagascar,MDG,AF,2013,3.97
+Madagascar,MDG,AF,2015,3.68
+Madagascar,MDG,AF,2016,3.7
+Madagascar,MDG,AF,2017,3.64
+Madagascar,MDG,AF,2018,3.77
+Madagascar,MDG,AF,2019,3.93
+Madagascar,MDG,AF,2020,4.21
+Madagascar,MDG,AF,2021,4.34
+Madagascar,MDG,AF,2022,4.02
+Madagascar,MDG,AF,2023,4.02
+Malawi,MWI,AF,2013,4.11
+Malawi,MWI,AF,2015,4.29
+Malawi,MWI,AF,2016,4.16
+Malawi,MWI,AF,2017,3.97
+Malawi,MWI,AF,2018,3.59
+Malawi,MWI,AF,2019,3.41
+Malawi,MWI,AF,2020,3.6
+Malawi,MWI,AF,2021,3.75
+Malawi,MWI,AF,2022,3.5
+Malawi,MWI,AF,2023,3.36
+Malaysia,MYS,AS,2013,5.76
+Malaysia,MYS,AS,2015,5.77
+Malaysia,MYS,AS,2016,6.01
+Malaysia,MYS,AS,2017,6.08
+Malaysia,MYS,AS,2018,6.32
+Malaysia,MYS,AS,2019,5.34
+Malaysia,MYS,AS,2020,5.38
+Malaysia,MYS,AS,2021,5.71
+Malaysia,MYS,AS,2022,6.01
+Maldives,MDV,AS,2020,5.2
+Mali,MLI,AF,2013,4.25
+Mali,MLI,AF,2015,4
+Mali,MLI,AF,2016,4.07
+Mali,MLI,AF,2017,4.19
+Mali,MLI,AF,2018,4.45
+Mali,MLI,AF,2019,4.39
+Mali,MLI,AF,2020,4.72
+Mali,MLI,AF,2021,4.48
+Mali,MLI,AF,2022,4.2
+Mali,MLI,AF,2023,4.21
+Malta,MLT,EU,2013,5.96
+Malta,MLT,EU,2015,6.3
+Malta,MLT,EU,2016,6.49
+Malta,MLT,EU,2017,6.53
+Malta,MLT,EU,2018,6.63
+Malta,MLT,EU,2019,6.73
+Malta,MLT,EU,2020,6.6
+Malta,MLT,EU,2021,6.45
+Malta,MLT,EU,2022,6.3
+Malta,MLT,EU,2023,6.3
+Mauritania,MRT,AF,2013,4.76
+Mauritania,MRT,AF,2015,4.44
+Mauritania,MRT,AF,2016,4.2
+Mauritania,MRT,AF,2017,4.29
+Mauritania,MRT,AF,2018,4.36
+Mauritania,MRT,AF,2019,4.49
+Mauritania,MRT,AF,2020,4.23
+Mauritania,MRT,AF,2021,4.15
+Mauritania,MRT,AF,2022,4.72
+Mauritania,MRT,AF,2023,4.72
+Mauritius,MUS,AF,2013,5.48
+Mauritius,MUS,AF,2015,5.48
+Mauritius,MUS,AF,2016,5.65
+Mauritius,MUS,AF,2017,5.63
+Mauritius,MUS,AF,2018,5.89
+Mauritius,MUS,AF,2019,5.89
+Mauritius,MUS,AF,2020,6.05
+Mauritius,MUS,AF,2021,6.07
+Mauritius,MUS,AF,2022,5.9
+Mauritius,MUS,AF,2023,5.74
+Mexico,MEX,NA,2013,7.09
+Mexico,MEX,NA,2015,7.19
+Mexico,MEX,NA,2016,6.78
+Mexico,MEX,NA,2017,6.58
+Mexico,MEX,NA,2018,6.49
+Mexico,MEX,NA,2019,6.59
+Mexico,MEX,NA,2020,6.32
+Mexico,MEX,NA,2021,6.13
+Mexico,MEX,NA,2022,6.33
+Mexico,MEX,NA,2023,7.04
+Moldova,MDA,EU,2013,5.79
+Moldova,MDA,EU,2015,5.89
+Moldova,MDA,EU,2016,5.9
+Moldova,MDA,EU,2017,5.84
+Moldova,MDA,EU,2018,5.64
+Moldova,MDA,EU,2019,5.53
+Moldova,MDA,EU,2020,5.77
+Moldova,MDA,EU,2021,5.86
+Moldova,MDA,EU,2022,5.82
+Moldova,MDA,EU,2023,5.69
+Mongolia,MNG,AS,2013,4.83
+Mongolia,MNG,AS,2015,4.87
+Mongolia,MNG,AS,2016,4.91
+Mongolia,MNG,AS,2017,4.95
+Mongolia,MNG,AS,2018,5.13
+Mongolia,MNG,AS,2019,5.29
+Mongolia,MNG,AS,2020,5.68
+Mongolia,MNG,AS,2021,5.76
+Mongolia,MNG,AS,2022,5.84
+Mongolia,MNG,AS,2023,5.79
+Montenegro,MNE,EU,2013,5.3
+Montenegro,MNE,EU,2015,5.19
+Montenegro,MNE,EU,2016,5.16
+Montenegro,MNE,EU,2017,5.24
+Montenegro,MNE,EU,2018,5.35
+Montenegro,MNE,EU,2019,5.52
+Montenegro,MNE,EU,2020,5.58
+Montenegro,MNE,EU,2021,5.55
+Montenegro,MNE,EU,2022,5.72
+Morocco,MAR,AF,2013,4.89
+Morocco,MAR,AF,2015,5.01
+Morocco,MAR,AF,2016,5.15
+Morocco,MAR,AF,2017,5.24
+Morocco,MAR,AF,2018,5.25
+Morocco,MAR,AF,2019,5.21
+Morocco,MAR,AF,2020,4.92
+Morocco,MAR,AF,2021,5.06
+Morocco,MAR,AF,2022,4.9
+Morocco,MAR,AF,2023,4.6
+Mozambique,MOZ,AF,2017,4.55
+Mozambique,MOZ,AF,2018,4.42
+Mozambique,MOZ,AF,2019,4.47
+Mozambique,MOZ,AF,2020,4.79
+Mozambique,MOZ,AF,2021,5.05
+Mozambique,MOZ,AF,2022,4.95
+Mozambique,MOZ,AF,2023,4.74
+Namibia,NAM,AF,2016,4.57
+Namibia,NAM,AF,2017,4.57
+Namibia,NAM,AF,2018,4.44
+Namibia,NAM,AF,2019,4.64
+Namibia,NAM,AF,2020,4.57
+Namibia,NAM,AF,2021,4.46
+Namibia,NAM,AF,2022,4.63
+Namibia,NAM,AF,2023,4.95
+Nepal,NPL,AS,2013,4.16
+Nepal,NPL,AS,2015,4.51
+Nepal,NPL,AS,2016,4.79
+Nepal,NPL,AS,2017,4.96
+Nepal,NPL,AS,2018,4.88
+Nepal,NPL,AS,2019,4.91
+Nepal,NPL,AS,2020,5.27
+Nepal,NPL,AS,2021,5.38
+Nepal,NPL,AS,2022,5.36
+Nepal,NPL,AS,2023,5.47
+Netherlands,NLD,EU,2013,7.51
+Netherlands,NLD,EU,2015,7.38
+Netherlands,NLD,EU,2016,7.34
+Netherlands,NLD,EU,2017,7.38
+Netherlands,NLD,EU,2018,7.44
+Netherlands,NLD,EU,2019,7.49
+Netherlands,NLD,EU,2020,7.46
+Netherlands,NLD,EU,2021,7.41
+Netherlands,NLD,EU,2022,7.4
+Netherlands,NLD,EU,2023,7.39
+New Zealand,NZL,OC,2013,7.22
+New Zealand,NZL,OC,2015,7.29
+New Zealand,NZL,OC,2016,7.33
+New Zealand,NZL,OC,2017,7.31
+New Zealand,NZL,OC,2018,7.32
+New Zealand,NZL,OC,2019,7.31
+New Zealand,NZL,OC,2020,7.28
+New Zealand,NZL,OC,2021,7.2
+New Zealand,NZL,OC,2022,7.12
+New Zealand,NZL,OC,2023,6.98
+Nicaragua,NIC,NA,2013,5.51
+Nicaragua,NIC,NA,2015,5.83
+Nicaragua,NIC,NA,2016,5.99
+Nicaragua,NIC,NA,2017,6.07
+Nicaragua,NIC,NA,2018,6.14
+Nicaragua,NIC,NA,2019,6.11
+Nicaragua,NIC,NA,2020,5.97
+Nicaragua,NIC,NA,2021,6.16
+Nicaragua,NIC,NA,2022,6.26
+Nicaragua,NIC,NA,2023,6.39
+Niger,NER,AF,2013,4.15
+Niger,NER,AF,2015,3.85
+Niger,NER,AF,2016,3.86
+Niger,NER,AF,2017,4.03
+Niger,NER,AF,2018,4.17
+Niger,NER,AF,2019,4.63
+Niger,NER,AF,2020,5.07
+Niger,NER,AF,2021,5
+Niger,NER,AF,2022,4.5
+Niger,NER,AF,2023,4.5
+Nigeria,NGA,AF,2013,5.25
+Nigeria,NGA,AF,2015,5.27
+Nigeria,NGA,AF,2016,4.88
+Nigeria,NGA,AF,2017,5.07
+Nigeria,NGA,AF,2018,5.16
+Nigeria,NGA,AF,2019,5.26
+Nigeria,NGA,AF,2020,4.76
+Nigeria,NGA,AF,2021,4.55
+Nigeria,NGA,AF,2022,4.98
+North Macedonia,MKD,EU,2013,4.57
+North Macedonia,MKD,EU,2015,5.01
+North Macedonia,MKD,EU,2016,5.12
+North Macedonia,MKD,EU,2017,5.18
+North Macedonia,MKD,EU,2018,5.19
+North Macedonia,MKD,EU,2019,5.27
+North Macedonia,MKD,EU,2020,5.1
+North Macedonia,MKD,EU,2021,5.2
+North Macedonia,MKD,EU,2022,5.25
+Norway,NOR,EU,2013,7.66
+Norway,NOR,EU,2015,7.52
+Norway,NOR,EU,2016,7.5
+Norway,NOR,EU,2017,7.54
+Norway,NOR,EU,2018,7.59
+Norway,NOR,EU,2019,7.55
+Norway,NOR,EU,2020,7.39
+Norway,NOR,EU,2021,7.37
+Norway,NOR,EU,2022,7.32
+Norway,NOR,EU,2023,7.3
+Oman,OMN,AS,2013,6.85
+Oman,OMN,AS,2015,6.85
+Pakistan,PAK,AS,2013,5.29
+Pakistan,PAK,AS,2015,5.19
+Pakistan,PAK,AS,2016,5.13
+Pakistan,PAK,AS,2017,5.27
+Pakistan,PAK,AS,2018,5.47
+Pakistan,PAK,AS,2019,5.65
+Pakistan,PAK,AS,2020,4.93
+Pakistan,PAK,AS,2021,4.52
+Pakistan,PAK,AS,2022,4.56
+Palestine,PS,AS,2017,4.78
+Palestine,PS,AS,2018,4.74
+Palestine,PS,AS,2019,4.7
+Palestine,PS,AS,2020,4.52
+Palestine,PS,AS,2022,4.91
+Panama,PAN,NA,2013,7.14
+Panama,PAN,NA,2015,6.79
+Panama,PAN,NA,2016,6.7
+Panama,PAN,NA,2017,6.45
+Panama,PAN,NA,2018,6.43
+Panama,PAN,NA,2019,6.32
+Panama,PAN,NA,2020,6.18
+Panama,PAN,NA,2021,6.31
+Panama,PAN,NA,2022,6.26
+Panama,PAN,NA,2023,5.98
+Paraguay,PRY,SA,2013,5.78
+Paraguay,PRY,SA,2015,5.88
+Paraguay,PRY,SA,2016,5.54
+Paraguay,PRY,SA,2017,5.49
+Paraguay,PRY,SA,2018,5.68
+Paraguay,PRY,SA,2019,5.74
+Paraguay,PRY,SA,2020,5.65
+Paraguay,PRY,SA,2021,5.58
+Paraguay,PRY,SA,2022,5.74
+Paraguay,PRY,SA,2023,6.14
+Peru,PER,SA,2013,5.78
+Peru,PER,SA,2015,5.82
+Peru,PER,SA,2016,5.74
+Peru,PER,SA,2017,5.72
+Peru,PER,SA,2018,5.66
+Peru,PER,SA,2019,5.7
+Peru,PER,SA,2020,5.84
+Peru,PER,SA,2021,5.56
+Peru,PER,SA,2022,5.53
+Peru,PER,SA,2023,5.89
+Philippines,PHL,AS,2013,4.99
+Philippines,PHL,AS,2015,5.07
+Philippines,PHL,AS,2016,5.28
+Philippines,PHL,AS,2017,5.43
+Philippines,PHL,AS,2018,5.52
+Philippines,PHL,AS,2019,5.63
+Philippines,PHL,AS,2020,5.88
+Philippines,PHL,AS,2021,5.9
+Philippines,PHL,AS,2022,5.52
+Poland,POL,EU,2013,5.82
+Poland,POL,EU,2015,5.79
+Poland,POL,EU,2016,5.84
+Poland,POL,EU,2017,5.97
+Poland,POL,EU,2018,6.12
+Poland,POL,EU,2019,6.18
+Poland,POL,EU,2020,6.17
+Poland,POL,EU,2021,6.12
+Poland,POL,EU,2022,6.26
+Poland,POL,EU,2023,6.67
+Portugal,PRT,EU,2013,5.1
+Portugal,PRT,EU,2015,5.1
+Portugal,PRT,EU,2016,5.12
+Portugal,PRT,EU,2017,5.2
+Portugal,PRT,EU,2018,5.41
+Portugal,PRT,EU,2019,5.69
+Portugal,PRT,EU,2020,5.93
+Portugal,PRT,EU,2021,6.02
+Portugal,PRT,EU,2022,5.97
+Portugal,PRT,EU,2023,5.95
+Puerto Rico,PRI,NA,2016,7.04
+Qatar,QAT,AS,2013,6.67
+Qatar,QAT,AS,2015,6.61
+Qatar,QAT,AS,2016,6.38
+Qatar,QAT,AS,2017,6.38
+Qatar,QAT,AS,2018,6.37
+Qatar,QAT,AS,2019,6.37
+Republic of the Congo,COG,AF,2017,4.29
+Republic of the Congo,COG,AF,2018,4.56
+Republic of the Congo,COG,AF,2019,4.81
+Republic of the Congo,COG,AF,2020,5.19
+Republic of the Congo,COG,AF,2022,5.27
+Republic of the Congo,COG,AF,2023,5.81
+Romania,ROU,EU,2013,5.03
+Romania,ROU,EU,2015,5.12
+Romania,ROU,EU,2016,5.53
+Romania,ROU,EU,2017,5.82
+Romania,ROU,EU,2018,5.95
+Romania,ROU,EU,2019,6.07
+Romania,ROU,EU,2020,6.14
+Romania,ROU,EU,2021,6.48
+Romania,ROU,EU,2022,6.59
+Romania,ROU,EU,2023,6.44
+Russia,RUS,EU,2013,5.46
+Russia,RUS,EU,2015,5.72
+Russia,RUS,EU,2016,5.86
+Russia,RUS,EU,2017,5.96
+Russia,RUS,EU,2018,5.81
+Russia,RUS,EU,2019,5.65
+Russia,RUS,EU,2020,5.48
+Russia,RUS,EU,2021,5.46
+Russia,RUS,EU,2022,5.66
+Russia,RUS,EU,2023,6.04
+Rwanda,RWA,AF,2013,3.72
+Rwanda,RWA,AF,2015,3.47
+Rwanda,RWA,AF,2016,3.52
+Rwanda,RWA,AF,2017,3.47
+Rwanda,RWA,AF,2018,3.41
+Rwanda,RWA,AF,2019,3.33
+Rwanda,RWA,AF,2020,3.42
+Rwanda,RWA,AF,2021,3.27
+Saudi Arabia,SAU,AS,2013,6.48
+Saudi Arabia,SAU,AS,2015,6.41
+Saudi Arabia,SAU,AS,2016,6.38
+Saudi Arabia,SAU,AS,2017,6.34
+Saudi Arabia,SAU,AS,2018,6.37
+Saudi Arabia,SAU,AS,2019,6.37
+Saudi Arabia,SAU,AS,2020,6.49
+Saudi Arabia,SAU,AS,2021,6.52
+Saudi Arabia,SAU,AS,2022,6.46
+Saudi Arabia,SAU,AS,2023,6.38
+Senegal,SEN,AF,2013,3.96
+Senegal,SEN,AF,2015,3.9
+Senegal,SEN,AF,2016,4.22
+Senegal,SEN,AF,2017,4.53
+Senegal,SEN,AF,2018,4.63
+Senegal,SEN,AF,2019,4.68
+Senegal,SEN,AF,2020,5.13
+Senegal,SEN,AF,2021,5.05
+Senegal,SEN,AF,2022,4.86
+Senegal,SEN,AF,2023,4.91
+Serbia,SRB,EU,2013,4.81
+Serbia,SRB,EU,2015,5.12
+Serbia,SRB,EU,2016,5.18
+Serbia,SRB,EU,2017,5.39
+Serbia,SRB,EU,2018,5.4
+Serbia,SRB,EU,2019,5.6
+Serbia,SRB,EU,2020,6.08
+Serbia,SRB,EU,2021,6.18
+Serbia,SRB,EU,2022,6.14
+Sierra Leone,SLE,AF,2013,4.32
+Sierra Leone,SLE,AF,2015,4.51
+Sierra Leone,SLE,AF,2016,4.64
+Sierra Leone,SLE,AF,2017,4.71
+Sierra Leone,SLE,AF,2018,4.57
+Sierra Leone,SLE,AF,2019,4.37
+Sierra Leone,SLE,AF,2020,3.85
+Sierra Leone,SLE,AF,2021,3.57
+Sierra Leone,SLE,AF,2022,3.14
+Sierra Leone,SLE,AF,2023,2.56
+Singapore,SGP,AS,2013,6.55
+Singapore,SGP,AS,2015,6.8
+Singapore,SGP,AS,2016,6.74
+Singapore,SGP,AS,2017,6.57
+Singapore,SGP,AS,2018,6.34
+Singapore,SGP,AS,2019,6.26
+Singapore,SGP,AS,2020,6.38
+Singapore,SGP,AS,2021,6.48
+Singapore,SGP,AS,2022,6.59
+Slovakia,SVK,EU,2013,5.97
+Slovakia,SVK,EU,2015,6
+Slovakia,SVK,EU,2016,6.08
+Slovakia,SVK,EU,2017,6.1
+Slovakia,SVK,EU,2018,6.17
+Slovakia,SVK,EU,2019,6.2
+Slovakia,SVK,EU,2020,6.33
+Slovakia,SVK,EU,2021,6.39
+Slovakia,SVK,EU,2022,6.47
+Slovenia,SVN,EU,2013,6.06
+Slovenia,SVN,EU,2015,5.85
+Slovenia,SVN,EU,2016,5.77
+Slovenia,SVN,EU,2017,5.76
+Slovenia,SVN,EU,2018,5.95
+Slovenia,SVN,EU,2019,6.12
+Slovenia,SVN,EU,2020,6.46
+Slovenia,SVN,EU,2021,6.63
+Slovenia,SVN,EU,2022,6.65
+Slovenia,SVN,EU,2023,6.72
+Somalia,SOM,AF,2016,5.44
+Somalia,SOM,AF,2017,5.15
+Somalia,SOM,AF,2018,4.98
+Somalia,SOM,AF,2019,4.67
+Somalia,SOM,AF,2022,5.27
+South Africa,ZAF,AF,2013,4.96
+South Africa,ZAF,AF,2015,4.64
+South Africa,ZAF,AF,2016,4.46
+South Africa,ZAF,AF,2017,4.83
+South Africa,ZAF,AF,2018,4.72
+South Africa,ZAF,AF,2019,4.72
+South Africa,ZAF,AF,2020,4.96
+South Africa,ZAF,AF,2021,5.19
+South Korea,KOR,AS,2013,6.27
+South Korea,KOR,AS,2015,5.98
+South Korea,KOR,AS,2016,5.84
+South Korea,KOR,AS,2017,5.84
+South Korea,KOR,AS,2018,5.88
+South Korea,KOR,AS,2019,5.89
+South Korea,KOR,AS,2020,5.85
+South Korea,KOR,AS,2021,5.94
+South Korea,KOR,AS,2022,5.95
+South Korea,KOR,AS,2023,5.95
+Spain,ESP,EU,2013,6.32
+Spain,ESP,EU,2015,6.33
+Spain,ESP,EU,2016,6.36
+Spain,ESP,EU,2017,6.4
+Spain,ESP,EU,2018,6.31
+Spain,ESP,EU,2019,6.35
+Spain,ESP,EU,2020,6.49
+Spain,ESP,EU,2021,6.48
+Spain,ESP,EU,2022,6.44
+Spain,ESP,EU,2023,6.34
+Sri Lanka,LKA,AS,2013,4.15
+Sri Lanka,LKA,AS,2015,4.27
+Sri Lanka,LKA,AS,2016,4.42
+Sri Lanka,LKA,AS,2017,4.44
+Sri Lanka,LKA,AS,2018,4.47
+Sri Lanka,LKA,AS,2019,4.37
+Sri Lanka,LKA,AS,2020,4.33
+Sri Lanka,LKA,AS,2021,4.36
+Sri Lanka,LKA,AS,2022,4.44
+Sudan,SDN,AF,2013,4.4
+Sudan,SDN,AF,2015,4.55
+Sudan,SDN,AF,2016,4.14
+Sudan,SDN,AF,2017,4.14
+Sudan,SDN,AF,2018,4.14
+Suriname,SUR,SA,2013,6.27
+Suriname,SUR,SA,2015,6.27
+Suriname,SUR,SA,2016,6.27
+Swaziland,SWZ,AF,2013,4.87
+Swaziland,SWZ,AF,2015,4.87
+Swaziland,SWZ,AF,2019,4.21
+Swaziland,SWZ,AF,2020,4.31
+Swaziland,SWZ,AF,2021,4.4
+Sweden,SWE,EU,2013,7.48
+Sweden,SWE,EU,2015,7.36
+Sweden,SWE,EU,2016,7.29
+Sweden,SWE,EU,2017,7.28
+Sweden,SWE,EU,2018,7.31
+Sweden,SWE,EU,2019,7.34
+Sweden,SWE,EU,2020,7.36
+Sweden,SWE,EU,2021,7.38
+Sweden,SWE,EU,2022,7.4
+Sweden,SWE,EU,2023,7.43
+Switzerland,CHE,EU,2013,7.65
+Switzerland,CHE,EU,2015,7.59
+Switzerland,CHE,EU,2016,7.51
+Switzerland,CHE,EU,2017,7.49
+Switzerland,CHE,EU,2018,7.49
+Switzerland,CHE,EU,2019,7.48
+Switzerland,CHE,EU,2020,7.57
+Switzerland,CHE,EU,2021,7.51
+Switzerland,CHE,EU,2022,7.24
+Switzerland,CHE,EU,2023,6.88
+Syria,SYR,AS,2013,3.89
+Syria,SYR,AS,2015,3.01
+Syria,SYR,AS,2016,3.07
+Syria,SYR,AS,2017,3.46
+Syria,SYR,AS,2018,3.46
+Syria,SYR,AS,2019,3.46
+Taiwan,TWN,AS,2013,6.22
+Taiwan,TWN,AS,2015,6.3
+Taiwan,TWN,AS,2016,6.38
+Taiwan,TWN,AS,2017,6.42
+Taiwan,TWN,AS,2018,6.44
+Taiwan,TWN,AS,2019,6.45
+Taiwan,TWN,AS,2020,6.58
+Taiwan,TWN,AS,2021,6.51
+Taiwan,TWN,AS,2023,6.61
+Tajikistan,TJK,AS,2013,4.38
+Tajikistan,TJK,AS,2015,4.79
+Tajikistan,TJK,AS,2016,5
+Tajikistan,TJK,AS,2017,5.04
+Tajikistan,TJK,AS,2018,5.35
+Tajikistan,TJK,AS,2019,5.47
+Tajikistan,TJK,AS,2020,5.47
+Tajikistan,TJK,AS,2021,5.38
+Tajikistan,TJK,AS,2022,5.33
+Tanzania,TZA,AF,2013,3.77
+Tanzania,TZA,AF,2015,3.78
+Tanzania,TZA,AF,2016,3.67
+Tanzania,TZA,AF,2017,3.35
+Tanzania,TZA,AF,2018,3.3
+Tanzania,TZA,AF,2019,3.23
+Tanzania,TZA,AF,2020,3.62
+Tanzania,TZA,AF,2021,3.7
+Tanzania,TZA,AF,2022,3.69
+Tanzania,TZA,AF,2023,3.62
+Thailand,THA,AS,2013,6.37
+Thailand,THA,AS,2015,6.46
+Thailand,THA,AS,2016,6.47
+Thailand,THA,AS,2017,6.42
+Thailand,THA,AS,2018,6.07
+Thailand,THA,AS,2019,6.01
+Thailand,THA,AS,2020,5.99
+Thailand,THA,AS,2021,5.89
+Thailand,THA,AS,2022,5.84
+Thailand,THA,AS,2023,6.01
+Togo,TGO,AF,2013,2.94
+Togo,TGO,AF,2015,2.84
+Togo,TGO,AF,2016,3.3
+Togo,TGO,AF,2017,3.49
+Togo,TGO,AF,2018,4
+Togo,TGO,AF,2019,4.08
+Togo,TGO,AF,2020,4.11
+Togo,TGO,AF,2021,4.11
+Togo,TGO,AF,2022,4.14
+Togo,TGO,AF,2023,4.24
+Trinidad and Tobago,TTO,NA,2013,6.52
+Trinidad and Tobago,TTO,NA,2015,6.17
+Trinidad and Tobago,TTO,NA,2016,6.17
+Trinidad and Tobago,TTO,NA,2017,6.17
+Trinidad and Tobago,TTO,NA,2018,6.19
+Trinidad and Tobago,TTO,NA,2019,6.19
+Trinidad and Tobago,TTO,NA,2020,6.19
+Tunisia,TUN,AF,2013,4.83
+Tunisia,TUN,AF,2015,4.74
+Tunisia,TUN,AF,2016,5.05
+Tunisia,TUN,AF,2017,4.8
+Tunisia,TUN,AF,2018,4.59
+Tunisia,TUN,AF,2019,4.46
+Tunisia,TUN,AF,2020,4.6
+Tunisia,TUN,AF,2021,4.52
+Tunisia,TUN,AF,2022,4.5
+Tunisia,TUN,AF,2023,4.26
+Turkey,TUR,EU,2013,5.35
+Turkey,TUR,EU,2015,5.33
+Turkey,TUR,EU,2016,5.39
+Turkey,TUR,EU,2017,5.5
+Turkey,TUR,EU,2018,5.48
+Turkey,TUR,EU,2019,5.37
+Turkey,TUR,EU,2020,4.95
+Turkey,TUR,EU,2021,4.74
+Turkey,TUR,EU,2022,4.61
+Turkmenistan,TKM,AS,2013,5.63
+Turkmenistan,TKM,AS,2015,5.55
+Turkmenistan,TKM,AS,2016,5.66
+Turkmenistan,TKM,AS,2017,5.82
+Turkmenistan,TKM,AS,2018,5.64
+Turkmenistan,TKM,AS,2019,5.25
+Turkmenistan,TKM,AS,2020,5.07
+Turkmenistan,TKM,AS,2021,5.47
+Uganda,UGA,AF,2013,4.44
+Uganda,UGA,AF,2015,3.93
+Uganda,UGA,AF,2016,3.74
+Uganda,UGA,AF,2017,4.08
+Uganda,UGA,AF,2018,4.16
+Uganda,UGA,AF,2019,4.19
+Uganda,UGA,AF,2020,4.64
+Uganda,UGA,AF,2021,4.6
+Uganda,UGA,AF,2022,4.43
+Ukraine,UKR,EU,2013,5.06
+Ukraine,UKR,EU,2015,4.68
+Ukraine,UKR,EU,2016,4.32
+Ukraine,UKR,EU,2017,4.1
+Ukraine,UKR,EU,2018,4.1
+Ukraine,UKR,EU,2019,4.33
+Ukraine,UKR,EU,2020,4.88
+Ukraine,UKR,EU,2021,5.08
+Ukraine,UKR,EU,2022,5.07
+Ukraine,UKR,EU,2023,4.64
+United Arab Emirates,ARE,AS,2013,7.14
+United Arab Emirates,ARE,AS,2015,6.9
+United Arab Emirates,ARE,AS,2016,6.57
+United Arab Emirates,ARE,AS,2017,6.65
+United Arab Emirates,ARE,AS,2018,6.77
+United Arab Emirates,ARE,AS,2019,6.82
+United Arab Emirates,ARE,AS,2020,6.56
+United Arab Emirates,ARE,AS,2021,6.58
+United Arab Emirates,ARE,AS,2022,6.57
+United Arab Emirates,ARE,AS,2023,6.74
+United Kingdom,GBR,EU,2013,6.88
+United Kingdom,GBR,EU,2015,6.87
+United Kingdom,GBR,EU,2016,6.73
+United Kingdom,GBR,EU,2017,6.71
+United Kingdom,GBR,EU,2018,6.81
+United Kingdom,GBR,EU,2019,7.05
+United Kingdom,GBR,EU,2020,7.06
+United Kingdom,GBR,EU,2021,6.94
+United Kingdom,GBR,EU,2022,6.8
+United Kingdom,GBR,EU,2023,6.72
+Uruguay,URY,SA,2013,6.36
+Uruguay,URY,SA,2015,6.49
+Uruguay,URY,SA,2016,6.55
+Uruguay,URY,SA,2017,6.45
+Uruguay,URY,SA,2018,6.38
+Uruguay,URY,SA,2019,6.29
+Uruguay,URY,SA,2020,6.43
+Uruguay,URY,SA,2021,6.47
+Uruguay,URY,SA,2022,6.49
+Uruguay,URY,SA,2023,6.67
+USA,USA,NA,2013,7.08
+USA,USA,NA,2015,7.12
+USA,USA,NA,2016,7.1
+USA,USA,NA,2017,6.99
+USA,USA,NA,2018,6.89
+USA,USA,NA,2019,6.89
+USA,USA,NA,2020,6.95
+USA,USA,NA,2021,6.98
+USA,USA,NA,2022,6.89
+USA,USA,NA,2023,6.69
+Uzbekistan,UZB,AS,2013,5.62
+Uzbekistan,UZB,AS,2015,6
+Uzbekistan,UZB,AS,2016,5.99
+Uzbekistan,UZB,AS,2017,5.97
+Uzbekistan,UZB,AS,2018,6.1
+Uzbekistan,UZB,AS,2019,6.17
+Uzbekistan,UZB,AS,2020,6.18
+Uzbekistan,UZB,AS,2021,6.06
+Uzbekistan,UZB,AS,2022,6.01
+Uzbekistan,UZB,AS,2023,6.02
+Venezuela,VEN,SA,2013,7.04
+Venezuela,VEN,SA,2015,6.81
+Venezuela,VEN,SA,2016,6.08
+Venezuela,VEN,SA,2017,5.25
+Venezuela,VEN,SA,2018,4.81
+Venezuela,VEN,SA,2019,4.71
+Venezuela,VEN,SA,2020,4.89
+Venezuela,VEN,SA,2021,4.93
+Venezuela,VEN,SA,2022,5.21
+Venezuela,VEN,SA,2023,5.95
+Vietnam,VNM,AS,2013,5.53
+Vietnam,VNM,AS,2015,5.36
+Vietnam,VNM,AS,2016,5.06
+Vietnam,VNM,AS,2017,5.07
+Vietnam,VNM,AS,2018,5.1
+Vietnam,VNM,AS,2019,5.18
+Vietnam,VNM,AS,2020,5.41
+Vietnam,VNM,AS,2021,5.49
+Vietnam,VNM,AS,2022,5.76
+Vietnam,VNM,AS,2023,6.27
+Yemen,YEM,AS,2013,4.05
+Yemen,YEM,AS,2015,4.08
+Yemen,YEM,AS,2016,3.72
+Yemen,YEM,AS,2017,3.59
+Yemen,YEM,AS,2018,3.36
+Yemen,YEM,AS,2019,3.38
+Yemen,YEM,AS,2020,3.66
+Yemen,YEM,AS,2021,4.2
+Zambia,ZMB,AF,2013,5.01
+Zambia,ZMB,AF,2015,5.13
+Zambia,ZMB,AF,2016,4.8
+Zambia,ZMB,AF,2017,4.51
+Zambia,ZMB,AF,2018,4.38
+Zambia,ZMB,AF,2019,4.11
+Zambia,ZMB,AF,2020,4.07
+Zambia,ZMB,AF,2021,3.76
+Zambia,ZMB,AF,2022,3.98
+Zimbabwe,ZWE,AF,2013,4.83
+Zimbabwe,ZWE,AF,2015,4.61
+Zimbabwe,ZWE,AF,2016,4.19
+Zimbabwe,ZWE,AF,2017,3.88
+Zimbabwe,ZWE,AF,2018,3.69
+Zimbabwe,ZWE,AF,2019,3.66
+Zimbabwe,ZWE,AF,2020,3.15
+Zimbabwe,ZWE,AF,2021,3
+Zimbabwe,ZWE,AF,2022,3.2
+Zimbabwe,ZWE,AF,2023,3.3
